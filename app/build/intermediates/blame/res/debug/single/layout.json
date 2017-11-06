@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yudizsolutionspvt.ltd./Downloads/WifiDirectDemo1 copy/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/yudizsolutionspvt.ltd./Downloads/WifiDirectDemo1 copy/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/yudizsolutionspvt.ltd./Downloads/WifiDirectDemo1 copy/app/build/intermediates/res/merged/debug/layout/device_detail.xml",
+        "source": "/Users/yudizsolutionspvt.ltd./Downloads/WifiDirectDemo1 copy/app/src/main/res/layout/device_detail.xml"
+    },
+    {
+        "merged": "/Users/yudizsolutionspvt.ltd./Downloads/WifiDirectDemo1 copy/app/build/intermediates/res/merged/debug/layout/row_devices.xml",
+        "source": "/Users/yudizsolutionspvt.ltd./Downloads/WifiDirectDemo1 copy/app/src/main/res/layout/row_devices.xml"
+    },
+    {
+        "merged": "/Users/yudizsolutionspvt.ltd./Downloads/WifiDirectDemo1 copy/app/build/intermediates/res/merged/debug/layout/device_list.xml",
+        "source": "/Users/yudizsolutionspvt.ltd./Downloads/WifiDirectDemo1 copy/app/src/main/res/layout/device_list.xml"
+    }
+]
